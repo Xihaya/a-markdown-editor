@@ -2,6 +2,10 @@
 
 Quasar中文文档：http://www.quasarchs.com/
 
+## 预览
+![image](./doc/Snipaste_2023-03-21_20-32-01.png)
+![image](./doc/Snipaste_2023-03-21_20-32-27.png)
+
 ## 安装依赖
 推荐使用yarn
 ```bash
