@@ -6,6 +6,9 @@ Quasar中文文档：http://www.quasarchs.com/
 ![image](./doc/Snipaste_2023-03-21_20-32-01.png)
 ![image](./doc/Snipaste_2023-03-21_20-32-27.png)
 
+## 下载
+[输入链接说明](https://gitee.com/xihaya/a-markdown-editor/releases/tag/1.0.0)
+
 ## 安装依赖
 推荐使用yarn
 ```bash
